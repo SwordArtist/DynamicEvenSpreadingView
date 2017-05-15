@@ -28,8 +28,8 @@ public class ItemBoardFragment extends Fragment implements ItemBoardContract.Vie
     ItemBoardContract.Action presenter;
     LinearLayout rootView;
 
-    final int MAX_COLUMN_IN_ROW_FOR_PORTRAIT = 2;
-    final int MAX_COLUMN_IN_ROW_FOR_LANDSCAPE = 3;
+    final int MAX_COLUMN_IN_ROW_FOR_PORTRAIT = 4;
+    final int MAX_COLUMN_IN_ROW_FOR_LANDSCAPE = 6;
 
     public ItemBoardFragment() {
         // Required empty public constructor

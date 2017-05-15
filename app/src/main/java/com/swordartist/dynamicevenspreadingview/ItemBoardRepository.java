@@ -24,6 +24,14 @@ public class ItemBoardRepository {
         mBoardItemList.add("Item5");
         mBoardItemList.add("Item6");
         mBoardItemList.add("Item7");
+        mBoardItemList.add("Item8");
+        mBoardItemList.add("Item9");
+        mBoardItemList.add("Item10");
+        mBoardItemList.add("Item11");
+        mBoardItemList.add("Item12");
+        mBoardItemList.add("Item13");
+        mBoardItemList.add("Item14");
+        mBoardItemList.add("Item15");
     }
 
     public ArrayList<String> getBoardItemList() {
